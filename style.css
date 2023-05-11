@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table ,tr {
+    gap: 10px;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid;
+    padding: 2px;
+}
+textarea{
+    border-radius: 5px;
+    border: 2px solid;
+}
